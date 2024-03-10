@@ -13,7 +13,7 @@ global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
 //sticker details
 global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
 global.packname = 'Sticker By'
-global.author = 'Maria Bot'
+global.author = 'Bwalya'
 //console view/theme
 global.themeemoji = '🧩'
 global.wm = "Ayush botz inc."
